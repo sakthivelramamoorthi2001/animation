@@ -84,6 +84,7 @@ const App = () => {
     }
 
   },[search])
+  
 
   return (
     <div className="w-full">
